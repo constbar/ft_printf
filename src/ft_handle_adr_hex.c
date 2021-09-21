@@ -1,16 +1,4 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_handle_adr_hex.c                                :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: agroup <marvin@42.fr>                      +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/12/15 16:14:30 by agroup            #+#    #+#             */
-/*   Updated: 2020/12/15 16:34:17 by agroup           ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
-#include "libftprintf.h"
+#include "../libftprintf.h"
 
 static	void	ft_print_hex(t_properties *prop, unsigned long num, char letter)
 {
