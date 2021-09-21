@@ -15,7 +15,7 @@ gcc main.c -L. libftprintf.a
 ./a.out
 ```
 
-### list of specifiers and flags
+### list of specifiers
 
 | specifier | description |
 | ------------ | ------------ |
@@ -26,6 +26,8 @@ gcc main.c -L. libftprintf.a
 | i | outputs an integer in decimal notation |
 | u | outputs unsigned decimal base |
 | x | outputs unsigned hex base |
+
+### list of flags
 
 | flag | description |
 | ------------ | ------------ |
