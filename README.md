@@ -1,12 +1,12 @@
 ## ft_printf
 
-project of 42 school where it is necessary to implement own printf function in C using only va_arg and write functions.
+project of École 42 where it is necessary to implement own printf function in C using only va_arg and write functions.
 
 the function works just like the original function from stdio.h library with certain specifiers and specific flags.
 
 all functions written in the project were implemented independently without using standard libraries.
 
-the project was made in accordance with the school design code standard in the C language.
+the project was made in accordance with the school design code standard in C language.
 
 ### how to use
 ```
